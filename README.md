@@ -6,6 +6,8 @@ Check out my personal page at: [https://jamie-cui.github.io/](https://jamie-cui.
 
 Your can contact me through email: jamie [dot] cui [at] outlook [dot] com
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamie-cui)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Jamie-Cui/Jamie-Cui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
