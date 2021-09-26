@@ -6,7 +6,7 @@ I’m an Algorithm Engineer at Ant Group. 🤔 My research interests mostly in s
 
 📫 Your can contact me through email: jamie [dot] cui [at] outlook [dot] com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamie-cui)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamie-cui)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **Jamie-Cui/Jamie-Cui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
