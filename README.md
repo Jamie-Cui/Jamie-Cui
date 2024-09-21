@@ -5,3 +5,5 @@ I’m a Senior Algorithm Engineer at Ant Group and a PhD candidate at ECNU. My r
 - Check out my personal page at: [https://jamie-cui.github.io/](https://jamie-cui.github.io/)
 - Check out our crypto lib! [https://github.com/secretflow/yacl](https://github.com/secretflow/yacl)
 - Your can contact me through email: jamie [dot] cui [at] outlook [dot] com
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Jamie-Cui&show_icons=true&theme=dark)
