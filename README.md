@@ -7,5 +7,4 @@ I’m a PhD candidate at ECNU. My research interests are mostly in secure comput
 - Your can contact me through email: jamie [dot] cui [at] outlook [dot] com
 
 ![My's Stats](https://github-readme-stats.vercel.app/api?username=Jamie-Cui)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jamie-Cui)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jamie-Cui&langs_count=2)
