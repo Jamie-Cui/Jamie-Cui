@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m a PhD candidate at ECNU. My research interests are mostly in secure computation (which is a subfield of cryptography), and I am currently interested in the theoretical foundations of cryptography, and some of the tools/protocols in cryptography. Btw, I also use [GNU Emacs](https://www.gnu.org/software/emacs/).
+I’m a PhD candidate (part-time) at ECNU. My research interests are mostly in secure computation (which is a subfield of cryptography), and I am currently interested in the theoretical foundations of cryptography, and some of the tools/protocols in cryptography. Btw, I also use [GNU Emacs](https://www.gnu.org/software/emacs/).
 
 - Check out my personal page at: [https://jamie-cui.github.io/](https://jamie-cui.github.io/)
 - Check out a new crypto lib (for research, licensed under Apache 2.0)! https://github.com/Jamie-Cui/yacl-r
