@@ -2,7 +2,7 @@
 
 PhD candidate at ECNU. Previously worked at Ant Group (2020-2024). Graduated from the University of Edinburgh in 2018, supervised by Dr. Myrto Arapinis.
 
-My main interests are secure computation (MPC, HE, ZKP, etc.), and foundations of cryptography. Btw, I also use [GNU Emacs](https://www.gnu.org/software/emacs/). Check out my personal page at: [https://jamie-cui.github.io/](https://jamie-cui.github.io/), or contact me through email: jamie [dot] cui [at] outlook [dot] com.
+My main interests are secure computation (MPC, HE, ZKP, etc.), and foundations of cryptography. Btw, I also use [[https://www.gnu.org/software/emacs/][GNU Emacs]]. Check out my personal page at: [[https://jamie-cui.github.io/][https://jamie-cui.github.io/]], or contact me through email: jamie [dot] cui [at] outlook [dot] com.
 
 I maintain an awesome list for secure computation papers:
 [[https://github.com/Jamie-Cui/awesome-secure-computation][github.com/Jamie-Cui/awesome-secure-computation]]
@@ -18,3 +18,4 @@ Repos for my workflow:
 - [[https://github.com/Jamie-Cui/dotfiles][dotfiles]] : Personal configuration for Linux and macOS desktops.
 - [[https://github.com/Jamie-Cui/emacs.d][emacs.d]] : A personal Emacs configuration with two-level deferred loading, Evil mode, and gptel LLM integration. Targets Emacs 30.1+.
 - [[https://github.com/Jamie-Cui/skills][skills]] : My angent skills collection.
+
