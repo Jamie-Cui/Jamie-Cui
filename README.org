@@ -11,9 +11,4 @@ I built serveral tools for fun:
 - [[https://github.com/Jamie-Cui/magent][magent]] : An Emacs Lisp AI coding agent with multi-agent architecture, permission-based tool access, and LLM integration via gptel.
 - [[https://github.com/Jamie-Cui/bilive][bilive]] : A lightweight, cross-platform Bilibili Live management service with a local web admin UI.
 - [[https://github.com/Jamie-Cui/yacl-r][yacl-r]] : Yet Another Cryptographic Library for Research
-
-Repos for my workflow:
-- [[https://github.com/Jamie-Cui/opt][opt]] : "Optional Applications". A personal collection of essential development tools and configurations managed via Makefile and TOML config.
-- [[https://github.com/Jamie-Cui/dotfiles][dotfiles]] : Personal configuration for Linux and macOS desktops.
-- [[https://github.com/Jamie-Cui/emacs.d][emacs.d]] : A personal Emacs configuration with two-level deferred loading, Evil mode, and gptel LLM integration. Targets Emacs 30.1+.
-- [[https://github.com/Jamie-Cui/skills][skills]] : My angent skills collection.
+- [[https://github.com/Jamie-Cui/agent-switch.el][agent-switch.el]] : An Emacs control panel for selecting provider profiles used by LLM agent clients.
